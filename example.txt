@@ -1,1 +1,4 @@
 First step is- create a file in VS code.
+Second step is- add some content.
+Third step is- git add "that file" 
+Fourth step is- git commit -m "Initial commit"
